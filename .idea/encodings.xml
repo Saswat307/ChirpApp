@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../../Ionic/PeepIt/PeepDemo/PeepTab/www/templates/tabs.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../Ionic/PeepIt/PeepIt/scss/ionic.app.scss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../Ionic/PeepIt/PeepIt/www/css/mandatory.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../Ionic/PeepIt/PeepIt/www/css/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../Ionic/PeepIt/PeepIt/www/js/controllers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../Ionic/PeepIt/PeepIt/www/js/error.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../Ionic/PeepIt/PeepIt/www/js/login.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../Ionic/PeepIt/PeepIt/www/templates/login.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../Ionic/PeepIt/PeepIt/www/templates/posts.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../Ionic/PeepIt/PeepIt/www/templates/profile.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../Ionic/PeepIt/PeepIt/www/templates/signup.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../Ionic/PeepIt/PeepIt/www/templates/tab-account.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../Ionic/PeepIt/PeepIt/www/templates/tab-dash.html" charset="UTF-8" />
+  </component>
+</project>
